@@ -45,5 +45,5 @@ MCQ Exam Portal Student Result Page
 6. Convenient: Flexible scheduling, online access anywhere, and instant results.
 
 
-**Summary**
+**Summary**<br>
 The MCQ Exam Portal is a web application built on ASP.NET programming with SQL Server Database as the back-end. This project makes exam activity management easier in terms of generating exam patterns, constructing question banks, configuring exam timers, and managing objective and subjective question sections. The system supports paperless exam processes available over computers and mobile phones with a smooth experience for examiners as well as students.
