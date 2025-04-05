@@ -14,7 +14,7 @@ An MCQ Exam Portal can be used to carry out test-related tasks such creating exa
 
 <h1>Project Outputs</h1>
 
-MCQ Exam Portal Admin Dashboard
+<p aligin="center">MCQ Exam Portal Admin Dashboard</p>
 ![image](https://github.com/user-attachments/assets/a74fd88a-2ae0-47ed-8014-4452742bfeb0)
 
 MCQ Exam Portal Student Dashboard
